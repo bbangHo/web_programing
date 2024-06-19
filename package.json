@@ -1,7 +1,7 @@
 {
-  "name": "2022_1_wap_web_team3",
+  "name": "손영호",
   "version": "1.0.0",
-  "description": "2022년 1학기 WAP 웹 3팀",
+  "description": "손영호_201911958_웹프_기말",
   "main": "index.js",
   "scripts": {
     "start": "node app.js",

@@ -1,5 +1,5 @@
 var db = require('../../db/db');
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 var shortid = require('shortid');
 
 module.exports = function (app) {

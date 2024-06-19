@@ -7,18 +7,28 @@
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "SYH",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^5.1.1",
-    "body-parser": "^1.19.0",
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
     "compression": "^1.7.4",
     "connect-flash": "^0.1.1",
-    "express": "^4.17.1",
-    "express-csp-header": "^5.2.1",
-    "express-session": "^1.17.1",
-    "helmet": "^4.1.0",
+    "express": "^4.17.3",
+    "express-csp-header": "^5.1.0",
+    "express-session": "^1.17.2",
+    "helmet": "^5.0.2",
+    "jquery": "^3.6.0",
+    "lowdb": "^1.0.0",
+    "mysql": "^2.18.1",
+    "passport": "^0.5.3",
+    "passport-facebook": "^3.0.0",
+    "passport-kakao": "^1.0.1",
+    "passport-local": "^1.0.0",
+    "sanitize-html": "^2.7.0",
+    "sequelize": "^6.19.0",
     "session-file-store": "^1.5.0",
-    "socket.io": "^4.0.0"
+    "shortid": "^2.2.16",
+    "socket.io": "^4.5.0"
   }
 }

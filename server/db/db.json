@@ -80,7 +80,7 @@
     {
       "idx": "yYnpAwPc4",
       "email": "test_man@pukyong.ac.kr",
-      "pw": "$2b$10$T2NjlCm4wfVmKUIdx4Kbe.E./1AZPxiWs.861n27iVoT8SZgNyfCK",
+      "pw": "1234",
       "displayName": "테스트남자",
       "gender": "Man",
       "room": "",
@@ -92,7 +92,7 @@
     {
       "idx": "hPPV0BNxV",
       "email": "test2@naver.com",
-      "pw": "$2b$10$SY19fKAK9ueJibIH2XvHyuYOoEtM1Vm.2MBLYD.QHTH.5GhFe/C4m",
+      "pw": "1234",
       "displayName": "테스트여성3",
       "gender": "Woman",
       "room": "",
@@ -102,6 +102,18 @@
       "partnerName": "",
       "mbti": "",
       "password": "$2b$10$pVfxbY34132uDux.Sgms8eNfoR2sbItX.ZBi39CEUhSA547dBPpZW"
+    },
+    {
+      "idx": "RjnxqatnZ",
+      "email": "q@naver.com",
+      "pw": "$2a$10$3k6dMcfOU4BLU71Id8XoaeHXkjovR5OfgYgAyCnLRF5Qhm7oy/N3e",
+      "displayName": "test",
+      "gender": "Woman",
+      "room": "",
+      "idealPersonality": "",
+      "personality": "",
+      "partnerIdx": "",
+      "partnerName": ""
     }
   ],
   "files": [],

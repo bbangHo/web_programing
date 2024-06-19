@@ -1,38 +1,23 @@
 {
-  "name": "손영호",
+  "name": "SYH",
   "version": "1.0.0",
-  "description": "손영호_201911958_웹프_기말",
-  "main": "index.js",
+  "description": "syh_201911958_final",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "SYH",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0",
+    "body-parser": "^1.19.0",
     "compression": "^1.7.4",
-    "connect-flash": "^0.1.1",
-    "express": "^4.17.3",
-    "express-csp-header": "^5.1.0",
-    "express-session": "^1.17.2",
-    "helmet": "^5.0.2",
-    "jquery": "^3.6.0",
-    "lowdb": "^1.0.0",
-    "mysql": "^2.18.1",
-    "passport": "^0.5.3",
-    "passport-facebook": "^3.0.0",
-    "passport-kakao": "^1.0.1",
-    "passport-local": "^1.0.0",
-    "sanitize-html": "^2.7.0",
-    "sequelize": "^6.19.0",
+    "helmet": "^4.1.0",
+    "express-session": "^1.17.1",
     "session-file-store": "^1.5.0",
-    "shortid": "^2.2.16",
-    "socket.io": "^4.5.0"
-  },
-  "devDependencies": {
-    "css-loader": "^6.7.1",
-    "mini-css-extract-plugin": "^2.6.0",
-    "style-loader": "^3.3.1"
+    "connect-flash": "^0.1.1",
+    "express-csp-header": "^5.2.1"
   }
 }

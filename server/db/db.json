@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "idx": "WDPRmf5K-",
+      "email": "test@naver.com",
+      "pw": "$2b$10$ahLvYtKRZez9iOjw8Rmf2ea31p5wwbeaG7ZfqvTgpDC2yYkuNfRpy",
+      "displayName": "test1",
+      "room": "",
+      "idealPersonality": "1222223223",
+      "personality": "2122212142",
+      "partnerIdx": "",
+      "partnerName": "",
+      "gender": "Woman"
+    },
+    {
+      "idx": "KF9-SmViW",
+      "email": "test1@naver.com",
+      "pw": "$2b$10$GJuidI6BSCDZvu/1Nv.Tm.0blhvkzkmlf7/CO6jXAyW/aqjUW4Bcq",
+      "displayName": "테스트여성1",
+      "room": "",
+      "idealPersonality": "2121313342",
+      "personality": "1111211244",
+      "partnerIdx": "",
+      "partnerName": "",
+      "gender": "Woman",
+      "password": "$2b$10$V2QWEpHFpK8Mv6CRIBL4EuiJmccCDa9/uxt5mGVIfcTEjXj98ehE6"
+    },
+    {
+      "idx": "3xv_FEL-M",
+      "email": "man@pukyong.ac.kr",
+      "pw": "$2b$10$xo8pweCYBqSW0pCKG/0qe.2vMnyRQ2PExiVPrhLu502.ZcGQucX4i",
+      "displayName": "테스트남성",
+      "gender": "Man",
+      "room": "",
+      "idealPersonality": "2122311112",
+      "personality": "2121221254",
+      "partnerIdx": "",
+      "partnerName": "",
+      "mbti": ""
+    },
+    {
+      "idx": "5_0kVrNFo",
+      "email": "woman@pukyong.ac.kr",
+      "pw": "$2b$10$HKI/mproAl2JQC4zwIchCuYBftCnJYR7/C652SztxAa2UHLGD8v72",
+      "displayName": "테스트여성",
+      "gender": "Woman",
+      "room": "",
+      "idealPersonality": "1111113212",
+      "personality": "2222222243",
+      "partnerIdx": "",
+      "partnerName": "",
+      "mbti": ""
+    },
+    {
+      "idx": "X3QUAnmDO",
+      "email": "test1234@naver.com",
+      "pw": "$2b$10$95mx/rlO94YM7EI5OvYPA.b5XaiHuVOs2WCr74MnN6gZLtyfq757y",
+      "displayName": "qweasd",
+      "gender": "Woman",
+      "room": "",
+      "idealPersonality": "1122313122",
+      "personality": "1111113212",
+      "partnerIdx": "",
+      "partnerName": "",
+      "mbti": ""
+    },
+    {
+      "idx": "05r0w44PK",
+      "email": "qwe@naver.com",
+      "pw": "$2b$10$bqfUTf5MWWwNcR.q3jsRBeP5gujuk20qYjDqm2qjcZ.0KAtaJc9pO",
+      "displayName": "eqwe",
+      "gender": "Woman",
+      "room": "",
+      "idealPersonality": "2222222243",
+      "personality": "2112322213",
+      "partnerIdx": "",
+      "partnerName": "",
+      "mbti": ""
+    },
+    {
+      "idx": "yYnpAwPc4",
+      "email": "test_man@pukyong.ac.kr",
+      "pw": "$2b$10$T2NjlCm4wfVmKUIdx4Kbe.E./1AZPxiWs.861n27iVoT8SZgNyfCK",
+      "displayName": "테스트남자",
+      "gender": "Man",
+      "room": "",
+      "idealPersonality": "1122212212",
+      "personality": "1222313222",
+      "partnerIdx": "",
+      "partnerName": ""
+    },
+    {
+      "idx": "hPPV0BNxV",
+      "email": "test2@naver.com",
+      "pw": "$2b$10$SY19fKAK9ueJibIH2XvHyuYOoEtM1Vm.2MBLYD.QHTH.5GhFe/C4m",
+      "displayName": "테스트여성3",
+      "gender": "Woman",
+      "room": "",
+      "idealPersonality": "1222313222",
+      "personality": "1122212212",
+      "partnerIdx": "",
+      "partnerName": "",
+      "mbti": "",
+      "password": "$2b$10$pVfxbY34132uDux.Sgms8eNfoR2sbItX.ZBi39CEUhSA547dBPpZW"
+    }
+  ],
+  "files": [],
+  "msg": []
+}
